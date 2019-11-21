@@ -7,15 +7,14 @@ taxonomy:
 menu: 'Kurzbeschreibung der Kursteile'
 twitterenable: true
 twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
 facebookenable: true
 anchors:
     active: false
 ---
+
+Auf dieser [Übersichtsseite](/uebersicht/kursuebersicht) werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine [Modulbeschreibung](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren [Datenblätter](/uebersicht/datenblatt), die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
+
+Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx), aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein [Workloadrechner](http://test.opengeoedu.de/workload.aspx) zur Verfügung, mit dem sich der Nutzer eine Auswahl der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
 
 <div class="container">
     <div class="row flex-wrap card-deck">
@@ -63,7 +62,7 @@ anchors:
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
-            [plugin:youtube](https://youtu.be/VrKVnoOtX5g)
+            [plugin:youtube](https://youtu.be/AJNEp0kHocA)
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
@@ -79,7 +78,7 @@ anchors:
         </div>
         <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            <div class=img-fluid markdown="1"> ![Tutorial](Karte.png)</div>
+            [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen
                 als auch praktische
@@ -126,13 +125,8 @@ anchors:
             </div>
         </div>
         <div class="card m-2" id="biomasse">
-            <h3 class="text-center">
-                Biomassepotenziale
-            </h3>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://slides.com/al-z/deck/embed" scrolling="no"
-                    frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
+            <h3 class="text-center">Biomassepotenziale</h3>
+            [plugin:youtube](https://youtu.be/_a8ZzX2gnE4)
             <div class="card-body text-justify">
                 Die Nutzung fossiler Brennstoffe kann durch den effizienten Einsatz von biogenen Ressourcen nachhaltig
                 reduziert werden.
@@ -175,11 +169,7 @@ anchors:
             <h3 class="text-center">
                 Fernerkundung
             </h3>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://slides.com/opengeoedu/deck-2/embed?style=light"
-                    width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen
-                    allowfullscreen></iframe>
-            </div>
+            [plugin:youtube](https://youtu.be/iIlX9-Ld_zY)
             <div class="card-body text-justify">
                 Die Erkundung der Erde aus der Luft, sei dies vom Satelliten bis zu Flugdrohnen, nimmt aktuell Fahrt
                 auf.
