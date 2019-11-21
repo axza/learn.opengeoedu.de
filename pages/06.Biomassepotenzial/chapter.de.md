@@ -3,6 +3,9 @@ title: Biomassepotenzial
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 ### OpenGeoEdu Fallbeispiel
@@ -19,9 +22,16 @@ Videos zum Fallbeispiel ***Biomassepotenzial***
 [plugin:youtube](https://youtu.be/3Crw79eL6QA)
 [/owl-carousel]
 
-
-<!--
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="//slides.com/al-z/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
--->
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Biomassepotenzial - OpenGeoEdu Fallbeispiel",
+  "description": "In dem Kursteil möchten wir Ihnen zeigen, wie Fragen in der Bioökonomie mit Hilfe von offenen (Geo-)Daten beantwortet werden können.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
