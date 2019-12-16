@@ -1,10 +1,10 @@
 ---
-title: 'Literatur'
+title: 'Literature'
 taxonomy:
     category:
         - docs
----M
-#### Referenzen
+---
+#### References
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
@@ -16,7 +16,7 @@ Bannari, A., Morin, D., Bonn, F., Huete, A.R., 1995. A review of vegetation indi
 
 Belward, A. S., Skøien, J. O., 2015. Who launched what, when and why; trends in global land-cover observation capacity from civilian earth observation satellites. ISPRS J. Photogramm. Remote Sens. 103, 115–128. https://doi.org/10.1016/j.isprsjprs.2014.03.009
 
-Boyd, D. S., Danson, F. M., 2005. Satellite remote sensing of forest resources: three decades of research development. Prog. Phys. Geogr. 29, 1–26. https://doi.org/10.1191/0309133305pp432ra
+Boyd, D. S., Danson, F. M., 2005. Satellite remote sensing of forest resources. three decades of research development. Prog. Phys. Geogr. 29, 1–26. https://doi.org/10.1191/0309133305pp432ra
 
 Einzmann, K., Immitzer, M., Böck, S., Bauer, O., Schmitt, A., Atzberger, C., 2017. Windthrow detection in european forests with very high-resolution optical data. Forests 8, 1–26. https://doi.org/10.3390/f8010021
 
@@ -26,7 +26,7 @@ Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., W
 
 Fagan, M., Defries, R., 2009. Measurement and Monitoring of the World’s Forests: A Review and Summary of Remote Sensing Technical Capability, 2009–2015, Resources for the Future. https://www.rff.org/documents/515/RFF-Rpt-Measurement20and20Monitoring_Final.pdf
 
-Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
+Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests: Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
 Heipke, C., 2017. Photogrammetrie und Fernerkundung - Handbuch der Geodäsie, herausgegeben von Willi Freeden und Reiner Rummel, 1st ed. Springer Spektrum, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-47094-7
 
@@ -48,7 +48,7 @@ Remelgado, R., Notarnicola, C., Sonnenschein, R., 2014. Forest damage assessment
 
 Romijn, E., Lantican, C. B., Herold, M., Lindquist, E., Ochieng, R., Wijaya, A., Murdiyarso, D., Verchot, L., 2015. Assessing change in national forest monitoring capacities of 99 tropical countries. For. Ecol. Manage. 352, 109–123. https://doi.org/10.1016/j.foreco.2015.06.003
 
-Rouse, J. W., Haas, R. H., Scheel, J. A., Deering, D. W., 1974. Monitoring Vegetation Systems in the Great Plains with ERTS, in: Earth Resources Technology Satellite-1 Symposium- Volume I: Technical Presentations. pp. 309–317.
+Rouse, J. W., Haas, R. H., Scheel, J. A., Deering, D. W., 1974. Monitoring Vegetation Systems in the Great Plains with ERTS. Earth Resources Technology Satellite-1 Symposium- Volume I: Technical Presentations. pp. 309–317.
 
 Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios. http://library.wur.nl/WebQuery/wurpubs/fulltext/146827
 
@@ -58,12 +58,12 @@ Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm.
 
 Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl%3A10317/datastream/PDF/Steinmeier-2002-Evaluation_moderner_Fernerkundungsmethoden_zur_Sturmschadenerkennung-%28published_version%29.pdf
 
-Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
+Thomas, V., 2012. Hyperspectral remote sensing for forest management. Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
 
 Tietz, R., 2018. Zugang zu Grünflächen in Großstädten – Eignung von OSM-Daten dargestellt an den Beispielen Dresden und Karlsruhe. AGIT ‒ Journal für Angewandte Geoinformatik 4, 338–347. https://doi.org/10.14627/537647043
 <br><br>
 
-#### Weiterführende Literatur
+#### Further literature
 
 Albertz, J., 2009. Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
 
@@ -74,31 +74,31 @@ Lillesand, T. M., Kiefer, R. W., Chipman, J. W., 2008. Remote sensing and image 
 Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5th ed., 494 S., Springer.
 <br><br>
 
-#### Linksammlung
+#### Link collection
 
--	Bundesamt für Kartographie und Geodäsie (BKG)
+-	Bundesamt für Kartographie und Geodäsie (BKG) (German Federal Agency for Cartography and GEodesy)
   - BKG-Homepage: [bkg.bund.de](https://www.bkg.bund.de)
   - BKG Open Data: [geodatenzentrum.de](https://gdz.bkg.bund.de/)
 
 
 -	Copernicus
   - EU-Seite: [copernicus.eu](https://www.copernicus.eu/de)
-  - Deutsche Seite: [d-copernicus.de](http://www.d-copernicus.de)
-  - Landüberwachungsdienst: [land.copernicus.eu](https://land.copernicus.eu/)
+  - German site: [d-copernicus.de](http://www.d-copernicus.de)
+  - Land Monitoring Service: [land.copernicus.eu](https://land.copernicus.eu/)
 
 
--	Sentinel-2-Zugang
+-	Sentinel-2-Access
     - CODE-DE: [code-de.org](https://code-de.org)
-    -	Copernicus Open Access Hub:  [scihub.copernicus.eu](https://scihub.copernicus.eu)
+    -	Copernicus Open Access Hub: [scihub.copernicus.eu](https://scihub.copernicus.eu)
 
 
 -	Sentinel-Hub
     -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): [sentinel-hub.com](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
-    -	Sentinel-Playground:  [sentinel-hub.com/sentinel-playground](https://apps.sentinel-hub.com/sentinel-playground/)
-    -	EO Browser:  [sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser/)
+    -	Sentinel-Playground: [sentinel-hub.com/sentinel-playground](https://apps.sentinel-hub.com/sentinel-playground/)
+    -	EO Browser: [sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser/)
 
 
-- Nachhaltigkeit
+- Sustainability
     - UN SDGs: [sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/)
     - UN SDGs: [un.org](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
     - UN SDGs: [unstats.un.org](https://unstats.un.org/wiki/display/SDGeHandbook/Home)
@@ -107,8 +107,8 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
     - 2030Watch: [2030-watch.de](https://www.2030-watch.de/)
     - SDG4Education: [sdg4education2030.org](https://www.sdg4education2030.org/)
     - ESA & CEOS Earth Observation Handbook Special Edition 2018: [eohandbook.com](http://eohandbook.com/sdg/index.html)
-    - Aichi-Biodiversitätsziele: [cbd.int](https://www.cbd.int/sp/targets)
-    - Nachhaltige Waldwirtschaft
+    - Aichi-Biodiversity goals: [cbd.int](https://www.cbd.int/sp/targets)
+    - Sustainable forestry
       - Bundesministerium für Ernährung und Landwirtschaft: [bmel.de](https://www.bmel.de/DE/Wald-Fischerei/Forst-Holzwirtschaft/Forstwirtschaft-node.html)
       - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
 
@@ -116,7 +116,7 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
 - Lexikon der Fernerkundung (Baldenhofer): [FE-Lexikon](http://www.fe-lexikon.info/)
 
 
-  - weitere Lernangebote mit Erdbeobachtung
+  - further online learning offers incl. Earth observation
       - Remote Sensing MOOC (DLR, ESA, Universität Jena): [EO-College](https://eo-college.org/landingpage/)
       - Fernerkundung in Schulen (Universitäten Bochum & Bonn): [FIS](http://www.fis.uni-bonn.de/)
       - Lernplattform für Jugendliche (PH Heidelberg): [geo:spektiv](https://www.geospektiv.de/)
